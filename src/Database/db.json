@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "mike",
+      "job": "driver",
+      "email": "mugendimike80@gmail.com",
+      "phone": "9998855",
+      "id": 1
+    },
+    {
+      "name": "jonte",
+      "job": "cameraman",
+      "email": "jonte@gmail.com",
+      "phone": "99887766",
+      "id": 4
+    }
+  ]
+}
