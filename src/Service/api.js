@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 
-const usersUrl = 'http://localhost:3002/users';
+const usersUrl = 'https://mambo-sacco.herokuapp.com/users';
 
 
 export const getUsers = async (id) => {
