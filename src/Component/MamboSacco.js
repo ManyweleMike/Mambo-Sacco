@@ -25,6 +25,9 @@ const CodeForInterview = () => {
             <Typography variant="h4"> New Members
             
             </Typography>
+            <Box style={{display: 'flex'}}>
+            <p>Currently not accepting new members</p>  
+            </Box>
             
         </Header>
     )
