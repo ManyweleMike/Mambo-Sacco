@@ -27,9 +27,9 @@ If you want to contribute go a head and fork and clone
 </ul>
 
 ## LIVE LINK
-    [mambosacco.vercel.app](https://github.com/ManyweleMike/Mambo-Sacco/)
+https://mambosacco.vercel.app/all
 ## BACKEND LINK
-
+https://mambo-sacco.herokuapp.com/users
 
 ## License
 MIT Copyright (c) 2022 MUGENDI MIKE
