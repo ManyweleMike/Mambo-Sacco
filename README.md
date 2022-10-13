@@ -12,8 +12,8 @@ Mambo Sacco is a sacco that brings together people from different job descriptio
 - VERCEl(Runs frontend)
 - Json-Server
 ## UPCOMING FEATURES
-  Show each memnber contribution and total contribution
-  Update the user Interface.
+  - Show each memnber contribution and total contribution
+  - Update the user Interface.
 ## SETUP INSTRUCTIONS
 If you want to contribute go a head and fork and clone
 <ul>
