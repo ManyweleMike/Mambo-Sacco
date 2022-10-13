@@ -20,7 +20,7 @@ const CodeForInterview = () => {
             
             </Typography>
             <Box style={{display: 'flex'}}>
-            <p>Mambo Sacco is a sacco  that brings together people from different work carrers together to work on a single </p>  
+            <p>Mambo Sacco is a sacco that brings together people from different job description within Mambo travellers to contribute to a common goal of financial safety in times of needs such as funerals,sickness etc </p>  
             </Box>
         </Header>
     )
